@@ -42,7 +42,7 @@ It can also call &tau;-ARGUS to apply protection methods in the background, ther
 includes a R-shiny GUI. sdcMicro can also be found on [CRAN](https://cran.r-project.org/web/packages/sdcMicro).
 
 ### rtauargus
-[rtauargus](https://github.com/rtauargus) provides an R interface for &tau;-ARGUS. It allows to integrate &tau;-ARGUS into a production chain in R.
+[rtauargus](https://github.com/sdcTools/rtauargus) provides an R interface for &tau;-ARGUS. It allows to integrate &tau;-ARGUS into a production chain in R.
 
 ### cellKey
 [cellKey](https://github.com/sdcTools/cellKey) is an R-package to apply Cell Key Method to tabulated (aggregated) data. cellKey can also be found on [CRAN](https://cran.r-project.org/web/packages/cellKey).
