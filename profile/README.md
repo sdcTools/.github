@@ -3,7 +3,7 @@ sdcTools is an organization dedicated to tools for Statistical Disclosure Contro
 
 Events, new releases and other news about sdcTools will be announced on [sdctools.github.io/UserSupport](https://sdctools.github.io/UserSupport). At that website you can also [apply for membership of the User Group on SDCTools](https://sdctools.github.io/UserSupport/ContactForm).
 
-A dedicated repository [UserSupport](https://sdcTools/UserSupport) is available for interaction between users and developers. Using its [issues](https://github.com/sdcTools/UserSupport/issues) mechanism, questions can be asked and (possible) bugs can be reported.
+A dedicated repository [UserSupport](https://github.com/sdcTools/UserSupport) is available for interaction between users and developers. Using its [issues](https://github.com/sdcTools/UserSupport/issues) mechanism, questions can be asked and (possible) bugs can be reported.
 
 ## Overview of tools
 ### &tau;-ARGUS
