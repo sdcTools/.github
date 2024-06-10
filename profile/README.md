@@ -48,5 +48,5 @@ includes a R-shiny GUI. sdcMicro can also be found on [CRAN](https://cran.r-proj
 [cellKey](https://github.com/sdcTools/cellKey) is an R-package to apply Cell Key Method to tabulated (aggregated) data. cellKey can also be found on [CRAN](https://cran.r-project.org/web/packages/cellKey).
 
 ### sdcSpatial
-[sdcSpatial](https://github.com/sdcTools/sdcSpacial) is an R-package to apply Statistical Disclosure Control methods to spatial data. In particular it offers methods for creating spatial density (raster) maps from (unprotected) point data. 
+[sdcSpatial](https://github.com/sdcTools/sdcSpatial) is an R-package to apply Statistical Disclosure Control methods to spatial data. In particular it offers methods for creating spatial density (raster) maps from (unprotected) point data. 
 
