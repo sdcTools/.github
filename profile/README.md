@@ -14,8 +14,8 @@ The repositories related to &tau;-ARGUS are:
 - [tauargus](https://github.com/sdcTools/tauargus): Java Graphical User Interface
 - [arguslibrary](https://github.com/sdcTools/arguslibrary): Library with general utilities for the argus twins (&mu;- and &tau;-ARGUS)
 - [libtauargus](https://github.com/sdcTools/libtauargus): Library with general calculations to construct tabulated data
-- [CSP](https://github.com/sdcTools/CSP): Library with Cell Suppression following FIschetti-Salazar approach
-- [CRP](https://github.com/sdcTools/CRP): Library with Controlled Rounding following FIschetti-Salazar approach
+- [CSP](https://github.com/sdcTools/CSP): Library with Cell Suppression following Fischetti-Salazar approach
+- [CRP](https://github.com/sdcTools/CRP): Library with Controlled Rounding following Fischetti-Salazar approach
 - [tauhitas](https://github.com/sdcTools/tauhitas): Library with Modular and Optimal approaches, using CSP
 - [taurounder](https://github.com/sdcTools/taurounder): Library to connect CRP to Java interface
 - [hypercube](https://github.com/sdcTools/hypercube): Hypercube approach to cell suppression, a.k.a. GHMIter
