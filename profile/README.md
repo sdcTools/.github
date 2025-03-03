@@ -50,3 +50,6 @@ includes a R-shiny GUI. sdcMicro can also be found on [CRAN](https://cran.r-proj
 ### sdcSpatial
 [sdcSpatial](https://github.com/sdcTools/sdcSpatial) is an R-package to apply Statistical Disclosure Control methods to spatial data. In particular it offers methods for creating spatial density (raster) maps from (unprotected) point data. 
 
+### AI-SDC 
+[AI-SDC](https://github.com/AI-SDC) is the ACRO-family of tools for disclosure control of statistical outputs and of machine learning models
+
