@@ -47,11 +47,11 @@ includes a R-shiny GUI. sdcMicro can also be found on [CRAN](https://cran.r-proj
 ### cellKey
 [cellKey](https://github.com/sdcTools/cellKey) is an R-package to apply Cell Key Method to tabulated (aggregated) data. cellKey can also be found on [CRAN](https://cran.r-project.org/web/packages/cellKey).
 
-### rebalancedNoise
-[rebalancedNoise](https://github.com/sdcTools/rebalancedNoise) implements the EZS method for magnitude tables as described in the Paper [*Using Perturbative Methods for Magnitude Tables in Statistical Disclosure Control*](https://unece.org/sites/default/files/2025-10/SDC2025_Sf_Sweden_Almberg_D.pdf) from Sabolová et al. (2025). It provides a high-performance framework for applying record-level noise with a dynamic rebalancing algorithm that preserves data quality in non-sensitive cells while ensuring additive consistency across complex hierarchies.
-
 ### sdcSpatial
 [sdcSpatial](https://github.com/sdcTools/sdcSpatial) is an R-package to apply Statistical Disclosure Control methods to spatial data. In particular it offers methods for creating spatial density (raster) maps from (unprotected) point data. 
+
+### rebalancedNoise
+[rebalancedNoise](https://github.com/sdcTools/rebalancedNoise) implements the EZS method for magnitude tables as described in the Paper [*Using Perturbative Methods for Magnitude Tables in Statistical Disclosure Control*](https://unece.org/sites/default/files/2025-10/SDC2025_Sf_Sweden_Almberg_D.pdf) from Sabolová et al. (2025). It provides a high-performance framework for applying record-level noise with a dynamic rebalancing algorithm that preserves data quality in non-sensitive cells while ensuring additive consistency across complex hierarchies.
 
 ### AI-SDC 
 [AI-SDC](https://github.com/AI-SDC) is the ACRO-family of tools for disclosure control of statistical outputs and of machine learning models
