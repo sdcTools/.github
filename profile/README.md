@@ -1,5 +1,9 @@
 # sdcTools
-sdcTools is an organization dedicated to tools for Statistical Disclosure Control.
+sdcTools is an organization dedicated to tools for Statistical Disclosure Control. 
+
+<img width="100" alt="EU co-funded" src="https://github.com/user-attachments/assets/c0466d06-4ba6-4443-8980-ee18a076d95a"/>
+
+Most of the tools are developed and/or maintained, co-funded by the European Commission.
 
 Events, new releases and other news about sdcTools will be announced on [sdctools.github.io/UserSupport](https://sdctools.github.io/UserSupport). At that website you can also [apply for membership of the User Group on SDCTools](https://sdctools.github.io/UserSupport/ContactForm).
 
