@@ -58,6 +58,11 @@ includes a R-shiny GUI. sdcMicro can also be found on [CRAN](https://cran.r-proj
 ### rebalancedNoise
 [rebalancedNoise](https://github.com/sdcTools/rebalancedNoise) implements the EZS method for magnitude tables as described in the Paper [*Using Perturbative Methods for Magnitude Tables in Statistical Disclosure Control*](https://unece.org/sites/default/files/2025-10/SDC2025_Sf_Sweden_Almberg_D.pdf) from Sabolová et al. (2025). It provides a high-performance framework for applying record-level noise with a dynamic rebalancing algorithm that preserves data quality in non-sensitive cells while ensuring additive consistency across complex hierarchies.
 
+### GaussSuppression
+[GaussSuppression](https://cran.r-project.org/package=GaussSuppression) is an R package for tabular data suppression using Gaussian elimination. 
+The package provides a simple interface and supports the simultaneous protection of multiple linked tables. 
+See the package description and vignettes on [CRAN](https://cran.r-project.org/package=GaussSuppression) for more information.
+
 ### AI-SDC 
 [AI-SDC](https://github.com/AI-SDC) is the ACRO-family of tools for disclosure control of statistical outputs and of machine learning models
 
